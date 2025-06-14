@@ -1,1 +1,2 @@
-It is the test content
+It is the test content 
+I've added new content
