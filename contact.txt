@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 This is new contact text page for testing
+=======
+This is new contact text page for testing
+
+this is after chaging branch content
+>>>>>>> contact
